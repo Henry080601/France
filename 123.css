@@ -32,7 +32,8 @@ html, body{
 	text-transform: uppercase;
 	text-shadow: 5px 5px 15px #000;
 }
-.carousel-caption h3{
+.carousel-caption h4{
+	color: aqua;
 	font-size: 200%;
 	text-shadow: 2px 2px 10px #000;
 }
